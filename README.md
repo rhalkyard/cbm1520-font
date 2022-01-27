@@ -177,16 +177,16 @@ this commercially.
 
 ## TODO
 
-[ ] More output formats
+* [ ] More output formats
 
-[x] Map non-ASCII characters to appropriate Unicode codepoints (possible with
+* [x] Map non-ASCII characters to appropriate Unicode codepoints (possible with
     `extract1520.py --remap` option but does not appear to be supported by
     HersheyFonts)
 
-[ ] 'True ASCII' version with nonstandard characters replaced by standard ASCII
+* [ ] 'True ASCII' version with nonstandard characters replaced by standard ASCII
     glyphs.
 
-[ ] Dig out my real C64 and 1520 and take some example pictures and confirm font
+* [ ] Dig out my real C64 and 1520 and take some example pictures and confirm font
     metrics.
 
 ## See Also
